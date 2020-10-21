@@ -223,8 +223,6 @@ const animate = () => {
     } else {
         start()
     }
-
-
 }
 
 const start = () => {
