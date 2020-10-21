@@ -217,7 +217,6 @@ const animate = () => {
         if (ball.y - object.y < 0 && j == 0) {
             j++
             score++
-            console.log(score)
         }
 
     } else {
